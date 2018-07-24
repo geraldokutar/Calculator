@@ -14,4 +14,4 @@ i used javascript,and html for this app.
 
 ### License
 
-Copyright (c) 2018 **Gerald Okutar**
+Copyright (c) 2018 **Gerald Okuta**
